@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidAplication</string>
+    <string name="number">0</string>
+    <string name="add_number">Add Number</string>
+    <string name="subtract_number">Subtract Number</string>
+    <string name="resetNumber">Reset Number</string>
+
+</resources>
